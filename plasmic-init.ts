@@ -7,14 +7,6 @@ export const PLASMIC = initPlasmicLoader({
       token: "OHqrPGB1joLVzPENQPepJkm0Hg2aFovDAYZ0lb9FeO0WvLpOZkI5tlLMezcFKrNsFrCHm1bDRfSEF47SWo7hw",
     },
   ],
-  // Add meta configuration for social media
-  meta: {
-    title: "Your Project Title",
-    description: "A brief description for social media.",
-    imageUrl: "https://luminforge.vercel.app/social.png",
-    // Optionally, add an icon if supported
-    iconUrl: "https://luminforge.vercel.app/favicons.png",
-  },
   // By default Plasmic will use the last published version of your project.
   // For development, you can set preview to true, which will use the unpublished
   // project, allowing you to see your designs without publishing.  Please
