@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import { PLASMIC } from '../plasmic-init'; // Adjust the path if needed
+
 
 function MyApp({ Component, pageProps }) {
   return (
